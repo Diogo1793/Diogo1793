@@ -1,5 +1,17 @@
-## Hi there 👋
+## Opa! Meu nome é Diogo.
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho interesse em programação e desenvolvimento de jogos.
+
+Tenho experiência com desenvolvimento de jogos utilizando **Clickteam Fusion, Godot e Unity**.
+
+Também possuo conhecimento nas seguintes linguagens e tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- C
+- C#
 <!--
 **Diogo1793/Diogo1793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
