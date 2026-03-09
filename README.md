@@ -1,4 +1,4 @@
-## Opa! Meu nome é Diogo.
+## 👨‍💻 Diogo Basan
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho interesse em programação e desenvolvimento de jogos.
 
