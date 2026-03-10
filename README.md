@@ -41,7 +41,7 @@ Também possuo conhecimento nas seguintes linguagens e tecnologias:
     title="c"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
 />
 <img
     aling="left"
