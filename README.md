@@ -6,68 +6,16 @@ Tenho experiência com desenvolvimento de jogos utilizando **Clickteam Fusion, G
 
 Também possuo conhecimento nas seguintes linguagens e tecnologias:
 
-### 👾 Linguagens de Tecnologias
+### 👾 Linguagens e Tecnologias
 
-<img
-    align="left"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    align="left" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;"   
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    aling="left"
-    title="Javascript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://devicon-website.vercel.app/api/javascript/original.svg"
-/>
-<img
-    aling="left"
-    title="csharp"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-/>
-<img
-    aling="left"
-    title="c"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-/>
-<img
-    aling="left"
-    title="python"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://devicon-website.vercel.app/api/python/original.svg"
-/>
-<img
-    aling="left"
-    title="git"
-    width="30px"
-    style="padding-right: 10px;"
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
-<img
-    aling="left"
-    title="unity"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
-/>
-<img
-    aling="left"
-    title="godot"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"
-/>
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40" height="40" />
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" title="Javascript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40" />
+  <img src="https://devicon-website.vercel.app/api/python/original.svg" title="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot" width="40" height="40" />
+</div>
