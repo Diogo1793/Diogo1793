@@ -69,5 +69,5 @@ Também possuo conhecimento nas seguintes linguagens e tecnologias:
     title="godot"
     width="30px"
     style="padding-right: 10px;"
-    src=" https://devicon-website.vercel.app/api/godot/original.svg "
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"
 />
