@@ -34,14 +34,14 @@ Também possuo conhecimento nas seguintes linguagens e tecnologias:
     title="csharp"
     width="30px"
     style="padding-right: 10px;"
-    src=" https://devicon-website.vercel.app/api/csharp/original.svg "
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
 />
 <img
     aling="left"
     title="c"
     width="30px"
     style="padding-right: 10px;"
-    src= " https://devicon-website.vercel.app/api/c/original.svg "
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
 />
 <img
     aling="left"
@@ -55,7 +55,7 @@ Também possuo conhecimento nas seguintes linguagens e tecnologias:
     title="git"
     width="30px"
     style="padding-right: 10px;"
-    src= "https://devicon-website.vercel.app/api/git/original.svg "
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 />
 <img
     aling="left"
